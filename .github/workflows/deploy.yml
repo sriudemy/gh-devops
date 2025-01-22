@@ -5,7 +5,7 @@ on:
       - main
       - dev
       - maste
-      - dev-*
+
 env:
   CACHE_KEY: node-deps
   MONGODB_DB_NAME: gha-demo
