@@ -9,7 +9,7 @@ env:
   MONGODB_DB_NAME: gha-demo
 jobs:
   test:
-    environment: testing1
+    environment: testing
     runs-on: ubuntu-latest
     # container:
     #   image: node:16
